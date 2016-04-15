@@ -1,0 +1,4 @@
+{
+ "project_id" : "external/gevent-psycopg2",
+ "conduit_uri" : "https://pelotoncycle.phacility.com/"
+}
